@@ -1,14 +1,27 @@
 (function() {
   "use strict";
-  
+
   var bigImages = {
-        myImg01: 'http://vgy.me/wFYm4u.jpg',
-        myImg02: 'http://vgy.me/fW93H7.jpg',
-        myImg03: 'http://vgy.me/xCM0mC.jpg',
-        myImg04: 'http://vgy.me/gIeA1q.jpg',
-        myImg05: 'http://vgy.me/Nbnre6.jpg',
-        myImg06: 'http://vgy.me/Dh95yS.jpg',
-        myImg07: 'http://vgy.me/ER6Brz.jpg'
+        myImg01: 'http://vgy.me/S49x4E.jpg',
+        myImg02: 'images/full/2L.jpg',
+        myImg03: 'images/full/3L.jpg',
+        myImg04: 'images/full/4L.jpg',
+        myImg05: 'images/full/5L.jpg',
+        myImg06: 'images/full/6L.jpg',
+        myImg07: 'images/full/7L.jpg',
+        myImg08: 'images/full/8L.jpg',
+        myImg09: 'images/full/9L.jpg',
+        myImg010: 'images/full/10L.jpg',
+        myImg011: 'images/full/11L.jpg',
+        myImg012: 'images/full/12L.jpg',
+        myImg013: 'images/full/13L.jpg',
+        myImg014: 'images/full/14L.jpg',
+        myImg015: 'images/full/15L.jpg',
+        myImg016: 'images/full/16L.jpg',
+        myImg017: 'images/full/17L.jpg',
+        myImg018: 'images/full/18L.jpg',
+        myImg019: 'http://vgy.me/S49x4E.jpg'
+
   };
 
   window.addEventListener('click', function(event) {
