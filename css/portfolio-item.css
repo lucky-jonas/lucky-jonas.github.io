@@ -9,6 +9,8 @@ body {
 
 .portfolio-item {
   margin-bottom: 25px;
+
+
 }
 
 h3 {
@@ -31,9 +33,10 @@ p {
 .expandable-image {
   border-radius: 5px;
   cursor: pointer;
+}
 
-
-
+.img-responsive {
+  box-shadow: 10px 5px 5px gray;
 }
 
 .modal {
@@ -139,7 +142,7 @@ p {
 .close {
   top: 10px;
   right: 35px;
-  color: #f1f1f1;
+  color: #5d4747;
   font-size: 80px;
   font-weight: bold;
   transition: 0.3s;
